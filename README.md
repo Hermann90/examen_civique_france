@@ -7,9 +7,16 @@ __À l'examen, les questions seront posées sous forme de questions à choix mul
 
 
 ## Principes et valeurs de la République :
-1- À quoi correspond la date du 14 juillet ?
-2- Quel est l’un des symboles de la République française ?
-3- Le principe d’égalité signifie que :
+
+<ol>
+<li>1- À quoi correspond la date du 14 juillet ?</li>
+<li>2- Quel est l’un des symboles de la République française ?</li>
+<li>3- Le principe d’égalité signifie que :</li>
+</ol>
+
+
+
+
 4- "Liberté, égalité, fraternité", c’est :
 5- A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?
 6- Certains métiers peuvent-ils être réservés aux hommes ?
