@@ -17,8 +17,8 @@ __À l'examen, les questions seront posées sous forme de questions à choix mul
 
 
 
-4- "Liberté, égalité, fraternité", c’est :
-5- A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?
+4. "Liberté, égalité, fraternité", c’est :
+5. A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?
 6- Certains métiers peuvent-ils être réservés aux hommes ?
 7- De quand date la Constitution de la Ve République ?
 8- Le régime de la France est :
